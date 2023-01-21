@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @hshehabu
-- 👀 I’m interested in programming 
+- 👋 Hi, Hamzavel is here
+- 👀 laravel , React & Java enthusiast
 - 🌱 I’m currently learning software engineering 
+- enjoy..
 
 
 <!---
